@@ -1,0 +1,61 @@
+
+body {
+
+
+}
+
+#imagens1 {
+	width: 100%; 
+}
+
+.principal{
+	background: #33AA77;
+	padding: 50px;
+}
+
+.titulo-principal{
+	padding: 30px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p{
+	text-align: center
+}
+
+#brecho {
+	font-size: 22px
+}
+
+strong {
+	color: black;
+}
+
+em strong {
+
+	color: blue;
+}
+
+.radar ul{
+	display: inline-block;
+}
+
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+img {
+	display: inline;
+	width: 450px;
+
+}
+
+
